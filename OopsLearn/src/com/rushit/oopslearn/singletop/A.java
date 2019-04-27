@@ -17,5 +17,6 @@ public class A {
 	  
 	 public void doSomething(){  
 	 //write your code  
+		 System.out.println(">>>>>>>>>>>>>>>"+getA().getClass().getSimpleName());
 	 }  
 }
