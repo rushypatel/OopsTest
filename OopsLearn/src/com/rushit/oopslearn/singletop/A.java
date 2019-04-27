@@ -15,8 +15,12 @@ public class A {
 	  return obj;  
 	 }  
 	  
-	 public void doSomething(){  
+	 public static void printClassName(){  
 	 //write your code  
 		 System.out.println(">>>>>>>>>>>>>>>"+getA().getClass().getSimpleName());
 	 }  
+	 
+	 public static void main(String args[]) {
+		 printClassName();
+	 }
 }
