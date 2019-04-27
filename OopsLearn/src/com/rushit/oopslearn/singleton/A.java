@@ -1,4 +1,4 @@
-package com.rushit.oopslearn.singletop;
+package com.rushit.oopslearn.singleton;
 
 public class A {  
 	 private static A obj;  
