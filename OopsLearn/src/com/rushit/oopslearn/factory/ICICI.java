@@ -1,4 +1,4 @@
-package com.rushit.oopslearn.adapter;
+package com.rushit.oopslearn.factory;
 
 public class ICICI implements Bank{  
     private final String BNAME;  

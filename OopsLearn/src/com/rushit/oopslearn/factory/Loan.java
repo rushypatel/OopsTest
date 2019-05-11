@@ -1,4 +1,4 @@
-package com.rushit.oopslearn.adapter;
+package com.rushit.oopslearn.factory;
 
 public abstract class Loan {
 	protected double rate;  
