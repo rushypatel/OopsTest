@@ -1,7 +1,7 @@
 package com.rushit.oopslearn.factory;
 
 public abstract class Loan {
-	//Refer: https://www.javatpoint.com/abstract-factory-pattern
+	//Refer Website: https://www.javatpoint.com/abstract-factory-pattern
 	protected double rate;  
 	abstract void getInterestRate(double rate);  
 	public void calculateLoanPayment(double loanamount, int years)  
